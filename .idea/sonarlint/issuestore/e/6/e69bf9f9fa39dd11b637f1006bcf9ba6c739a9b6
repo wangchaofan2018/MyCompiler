@@ -1,0 +1,11 @@
+
+U
+java:S3878,"8Remove this array creation and simply pass the elements.(Ï¤³¶8 Ý¼¦ê/
+0
+java:S1220""Move this file to a named package.
+v
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï¤³¶8þá»¦ê/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ü«—Ï8þá»¦ê/
+X	java:S125!"<This block of commented-out lines of code should be removed.(Î´—Å8þá»¦ê/
+—
+java:S1319"uThe type of the "inputList" object should be an interface such as "List" rather than the implementation "LinkedList".(Ñ‡¸¥þÿÿÿÿ8þá»¦ê/
